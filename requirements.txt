@@ -1,6 +1,9 @@
-Flask
+numpy
+pandas
 opencv-python
 pytesseract
-pandas
-fuzzywuzzy
-python-Levenshtein  
+textblob
+scikit-learn
+tensorflow
+matplotlib
+flask
